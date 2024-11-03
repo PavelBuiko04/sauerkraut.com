@@ -14,4 +14,4 @@
 
 
 ## Web site URL:
-https://pavelbuiko04.github.io/sauerkraut.com/products.html
+Website(https://pavelbuiko04.github.io/sauerkraut.com/index.html)
