@@ -14,5 +14,5 @@
 
 
 ## Web site URL:
-- Website(https://pavelbuiko04.github.io/sauerkraut.com/index.html)
-- Google Sheets(https://docs.google.com/spreadsheets/d/1u__2eD2T8lpImxrp8tMyRNdd7thsjPuCz05vP0cLd5Y/edit?gid=0#gid=0)
+- [Website](https://pavelbuiko04.github.io/sauerkraut.com/index.html)
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1u__2eD2T8lpImxrp8tMyRNdd7thsjPuCz05vP0cLd5Y/edit?gid=0#gid=0)
